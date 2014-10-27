@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<testsuites>
+  <testsuite name="PhantomJS 1.9.7 (Windows 7)" package="" timestamp="2014-10-24T12:33:29" id="0" hostname="PC990993-109" tests="5" errors="0" failures="0" time="0.027">
+    <properties>
+      <property name="browser.fullName" value="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34"/>
+    </properties>
+    <testcase name="should attach a list of awesomeThings to the scope" time="0.012" classname="PhantomJS 1.9.7 (Windows 7).Controller: AboutCtrl"/>
+    <testcase name="should attach a list of awesomeThings to the scope" time="0.002" classname="PhantomJS 1.9.7 (Windows 7).Controller: MainCtrl"/>
+    <testcase name="Deberiamos recuperar una galleta para el número" time="0.003" classname="PhantomJS 1.9.7 (Windows 7).Controller: MainCtrl"/>
+    <testcase name="Recupera la galleta numérica" time="0.008" classname="PhantomJS 1.9.7 (Windows 7).Service: SabiduriaService"/>
+    <testcase name="Recupera la galleta numérica EN MAYÜSCULAS" time="0.002" classname="PhantomJS 1.9.7 (Windows 7).Service: SabiduriaService"/>
+    <system-out><![CDATA[
+]]></system-out>
+    <system-err/>
+  </testsuite>
+</testsuites>
